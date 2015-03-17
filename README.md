@@ -7,9 +7,9 @@ Simple PSEi (formerly known as PHISIX) RESTful API hosted on Google AppEngine
 
 **Stocks**: look up stocks
 
-    GET http://phisix-api.appspot.com/stocks.{json|xml}
-    GET http://phisix-api.appspot.com/stocks/{symbol}.{json|xml}
-    GET http://phisix-api.appspot.com/stocks/{symbol}.{yyyy-MM-dd}.{json|xml}
+    GET http://stocks-merick.appspot.com/stocks.{json|xml}
+    GET http://stocks-merick.appspot.com/stocks/{symbol}.{json|xml}
+    GET http://stocks-merick.appspot.com/stocks/{symbol}.{yyyy-MM-dd}.{json|xml}
 
 ###JSON feeds###
 
@@ -93,4 +93,4 @@ Simple PSEi (formerly known as PHISIX) RESTful API hosted on Google AppEngine
 
 ###XSD###
 
-[http://phisix-api.appspot.com/schema/stocks/phisix-stocks.xsd](/schema/stocks/phisix-stocks.xsd)
+[http://stocks-merick.appspot.com/schema/stocks/phisix-stocks.xsd](/schema/stocks/phisix-stocks.xsd)
